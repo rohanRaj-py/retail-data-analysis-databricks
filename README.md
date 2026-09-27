@@ -6,6 +6,8 @@ A retail data analysis project built using **Databricks and PySpark** to analyze
 
 The project covers data loading, cleaning, transformation, deduplication, data modeling, analysis, and visualization.
 
+![Data Model](screenshots/image.png)
+
 ## 🛠️ Tech Stack
 
 - Databricks
